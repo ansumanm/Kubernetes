@@ -1,4 +1,4 @@
-To cover about 80% of the most common Docker use cases, you'll want to focus on a core set of commands that handle container and image management, networking, and data management. Here's a list of essential Docker commands:
+# Most used docker commands
 
 1. **Managing Images**
    - `docker pull [image]`: Download an image from a registry (like Docker Hub).
