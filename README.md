@@ -1,4 +1,4 @@
-To cover about 80% of the most common tasks in Kubernetes using `kubectl`, you'll want to familiarize yourself with a set of essential commands. Here's a list that should cover most of your needs:
+# Kubernetes basic operations.
 
 1. **Get Resources:**
    - `kubectl get pods` - List all pods in the current namespace.
